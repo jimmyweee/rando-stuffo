@@ -53,7 +53,7 @@ Socket 1			ID = 0
 	Core Stepping		U0
 	Technology		14 nm
 	TDP Limit		15.0 Watts
-	Tjmax			100.0 °C
+	Tjmax			100.0 Â°C
 	Core Speed		2993.4 MHz
 	Multiplier x Bus Speed	30.0 x 99.8 MHz
 	Base frequency (cores)	99.8 MHz
