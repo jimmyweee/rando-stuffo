@@ -10,13 +10,9 @@ CrystalDiskInfo 8.2.0 (C) 2008-2019 hiyohiyo
  + Standard SATA AHCI Controller [ATA]
    - Samsung SSD 850 EVO 250GB
  - Microsoft Storage Spaces Controller [SCSI]
- + Standard NVM Express Controller [SCSI]
-   - WDC WDS512G1X0C-00ENX0
- - Microsoft VHD Loopback Controller [SCSI]
 
 -- Disk List ---------------------------------------------------------------
  (1) Samsung SSD 850 EVO 250GB : 250.0 GB [0/0/0, pd1] - sg
- (2) WDC WDS512G1X0C-00ENX0 : 512.1 GB [1/1/0, sq] - nv
 
 ----------------------------------------------------------------------------
  (1) Samsung SSD 850 EVO 250GB
